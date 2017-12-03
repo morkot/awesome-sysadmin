@@ -550,6 +550,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 ## Service Discovery
 
 * [Consul](https://www.consul.io/) - Consul is a tool for service discovery, monitoring and configuration.
+* [synapse](https://github.com/airbnb/synapse) - Synapse is a system for service discovery, solving the problem of automated fail-over in the cloud.
 * [Doozerd](https://github.com/ha/doozerd) - Doozer is a highly-available, completely consistent store for small amounts of extremely important data.
 * [etcd](https://github.com/coreos/etcd) - distributed K/V-Store, authenticating via SSL PKI and a REST HTTP Api for shared configuration and service discovery.
 * [ZooKeeper](http://zookeeper.apache.org/) - ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services.
